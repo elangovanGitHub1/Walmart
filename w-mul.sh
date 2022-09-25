@@ -1,6 +1,5 @@
 echo ""
 echo "shell program to mul 2 values"
-echo "this program developed by vinayagam and Arun"
 echo ""
 read -p "enter the value of a is: " a
 read -p "enter the value of b is: " b
