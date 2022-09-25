@@ -1,5 +1,6 @@
 echo ""
 echo "shell program to add 2 values"
+echo "shell walmart project"
 echo ""
 read -p "enter the value of a is: " a
 read -p "enter the value of b is: " b
